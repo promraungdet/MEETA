@@ -2,4 +2,4 @@
 
 Project Launcher Games
 
-![alt text](https://launcher.app-meeta.io/LauncherV2.png)
+![alt text](https://launcher.app-meeta.io/Launcher.png)
